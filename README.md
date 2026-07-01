@@ -100,11 +100,8 @@ The website is designed using Flexbox and media queries to ensure compatibility 
 
 ## 🚀 How to Run
 
-1. Download or clone the project.
-2. Open `index.html` in your preferred web browser.
-3. Fill out the required information.
-4. Click **Calculate BMI** to view your results.
-5. Click **Reset** to clear the form.
+Try my Web Application through this Github Published Website Link:
+https://renz-raqs.github.io/raquin-health-checker-kiosk-Public/ 
 
 ---
 
